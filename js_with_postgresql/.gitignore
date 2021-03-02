@@ -1,2 +1,4 @@
 node_modules
-log
+log/access/*
+log/error/*
+log/system/*

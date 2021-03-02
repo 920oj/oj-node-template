@@ -15,6 +15,7 @@
   - system システム関係のログを格納
   - error エラー関係のログを格納
 - migrations Sequelizeのmigrateデータ
+- models Sequelizeのmodelデータ
 - routes ハンドラー
   - health.js GET /health エンドポイントのハンドラー
 - seeders Sequelizeのseedデータ
